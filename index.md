@@ -101,7 +101,7 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 
 # PROGRAMMING SKILLS
 
-Python 3.0+ (numpy, pandas, scipy, statsmodels, matplotlib, seaborn, plotly, scikit-learn, light gbm, xgboost, hyperopt, ipywidgets), SQL, BigQuery on GCP
+Python 3.0+ (numpy, pandas, scipy, statsmodels, matplotlib, seaborn, plotly, scikit-learn, light gbm, xgboost, hyperopt, ipywidgets, luigi), SQL, BigQuery on GCP, Docker
 
 ---
 
