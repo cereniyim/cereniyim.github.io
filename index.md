@@ -6,15 +6,11 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 
 **E-mail:** [iyimceren@gmail.com](mailto:iyimceren@gmail.com)<br/>
 **Mobile:** [+905385081202](tel:+905385081202)<br/>
-**Linkedin:** [https://www.linkedin.com/in/ceren-iyim](https://www.linkedin.com/in/ceren-iyim)
-
-**Medium:** [https://medium.com/@cereniyim](https://medium.com/@cereniyim)
-
-**Github:** [https://github.com/cereniyim](https://github.com/cereniyim)
-
-**Kaggle:** [https://www.kaggle.com/cereniyim](https://www.kaggle.com/cereniyim)
-
-**Twitter:** [https://twitter.com/cereniyim](https://twitter.com/cereniyim)
+**Linkedin:** [https://www.linkedin.com/in/ceren-iyim](https://www.linkedin.com/in/ceren-iyim)<br/>
+**Medium:** [https://medium.com/@cereniyim](https://medium.com/@cereniyim)<br/>
+**Github:** [https://github.com/cereniyim](https://github.com/cereniyim)<br/>
+**Kaggle:** [https://www.kaggle.com/cereniyim](https://www.kaggle.com/cereniyim)<br/>
+**Twitter:** [https://twitter.com/cereniyim](https://twitter.com/cereniyim)<br/>
 
 
 ### Markdown
