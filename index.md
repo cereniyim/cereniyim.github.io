@@ -4,10 +4,8 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 
 ### Contact
 
-**E-mail:** [iyimceren@gmail.com](mailto:iyimceren@gmail.com)
-
-**Mobile:** [+905385081202](+905385081202)
-
+**E-mail:** [iyimceren@gmail.com](mailto:iyimceren@gmail.com)<br/>
+**Mobile:** [+905385081202](tel:+905385081202)<br/>
 **Linkedin:** [https://www.linkedin.com/in/ceren-iyim](https://www.linkedin.com/in/ceren-iyim)
 
 **Medium:** [https://medium.com/@cereniyim](https://medium.com/@cereniyim)
