@@ -13,29 +13,18 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 **Twitter:** [https://twitter.com/cereniyim](https://twitter.com/cereniyim)<br/>
 
 
-### Markdown
+### DATA SCIENCE EXPERIENCE                                                                                         
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*JUNE 2019 - PRESENT*
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Building data science portfolio and blogging for Towards Data Science
+- Completed Data Science with Python and Andrew Ng’s Machine Learning course where I gained skills in PyData Stack
+- Built projects around funnel and churn analysis with SQL, run A/B tests and did statistical tests with statsmodels
+- Explored Hacker News data set on BigQuery with SQL
+- Performed exploratory data analysis with data cleaning and data wrangling using pandas and numpy. Visualized conclusions with matplotlib, seaborn and plotly
+- Applied extra random forests algorithm from scikit-learn to a multiclass supervised classification problem and detected tree types with 78% accuracy (link to the article)
+- Applied light gradient boosting machine algorithm to supervised regression problem and predicted energy consumption of a building with RMSLE of 2.78.
+- Applied K-means clustering algorithm to a real-world e-commerce sales data, segmented customers, inferred results (link to the article)
 
 ### Jekyll Themes
 
