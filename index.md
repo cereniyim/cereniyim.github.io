@@ -1,8 +1,16 @@
 ## About Me
 
-You can use the [editor on GitHub](https://github.com/cereniyim/cereniyim.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-become-a-data-scientist-eec6f8cd435e?source=friends_link&sk=ea90fc26db800fcf4611d37942b23508) and growing as a data scientist. Former SAP consultant with 4 years of work experience. 2 years of work experience in project management and team lead roles. Participated in three SAP projects at times working remotely.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact
+- E-mail: iyimceren@gmail.com
+- Mobile: +905385081202
+- Linkedin: https://www.linkedin.com/in/ceren-iyim
+- Medium: https://medium.com/@cereniyim
+- Github: https://github.com/cereniyim
+- Kaggle: https://www.kaggle.com/cereniyim
+- Twitter: https://twitter.com/cereniyim
+
 
 ### Markdown
 
