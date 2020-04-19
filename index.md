@@ -12,6 +12,7 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 **Kaggle:** [https://www.kaggle.com/cereniyim](https://www.kaggle.com/cereniyim)<br/>
 **Twitter:** [https://twitter.com/cereniyim](https://twitter.com/cereniyim)<br/>
 
+---
 
 # DATA SCIENCE EXPERIENCE                                                                                         
 
@@ -26,8 +27,9 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 - Applied light gradient boosting machine algorithm to supervised regression problem and predicted energy consumption of a building with RMSLE of 2.78.
 - Applied K-means clustering algorithm to a real-world e-commerce sales data, segmented customers, inferred results (link to the article)
 
-# WORK EXPERIENCE & PROJECTS
+--- 
 
+# WORK EXPERIENCE & PROJECTS
 
 ### Westernacher Consulting, Germany — Senior SAP Transportation Management (TM) Consultant
 
@@ -77,3 +79,38 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 
 - Fetched data with SQL and performed customer segmentation
 - Run tests for a customer loyalty management project
+
+---
+
+# ACADEMIC BACKGROUND
+
+### Sabanci University, Turkey — B.Sc. in Industrial Engineering
+
+*SEPT.  2009 - JUNE 2014*
+
+- Graduated with GPA of 3.44/4.00
+- Did Stochastic Model in Operations Research Teaching Assistant: Led recitation sessions and assisted two professors in organizing the course content
+
+### Uppsala University, Sweden — Information Technology
+
+*JAN.  2013 - JUNE 2013*
+
+- Exchange student as part of the Erasmus Program
+
+---
+
+# PROGRAMMING SKILLS
+
+Python 3.0+ (numpy, pandas, scipy, statsmodels, matplotlib, seaborn, plotly, scikit-learn, light gbm, xgboost, hyperopt, ipywidgets), SQL, BigQuery on GCP
+
+---
+
+# CERTIFICATES & TRAININGS
+
+Certified Associate in Project Management (CAPM) by PMI, Licence Number: 1879874<br/>
+Agile Project Management and Delivery & Scrum Training on Udemy (Apr 2018)<br/>
+AWS Cloud Practitioner Training on FreeCodeCamp (Jan  2020)
+
+# INTERESTS
+
+Sailing, marine biology, underwater photography
