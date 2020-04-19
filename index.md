@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-become-a-data-scientist-eec6f8cd435e?source=friends_link&sk=ea90fc26db800fcf4611d37942b23508) and growing as a data scientist. Former SAP consultant with 4 years of work experience. 2 years of work experience in project management and team lead roles. Participated in three SAP projects at times working remotely.
 
@@ -13,7 +13,7 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 **Twitter:** [https://twitter.com/cereniyim](https://twitter.com/cereniyim)<br/>
 
 
-### DATA SCIENCE EXPERIENCE                                                                                         
+# DATA SCIENCE EXPERIENCE                                                                                         
 
 *JUNE 2019 - PRESENT*
 
@@ -26,10 +26,54 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 - Applied light gradient boosting machine algorithm to supervised regression problem and predicted energy consumption of a building with RMSLE of 2.78.
 - Applied K-means clustering algorithm to a real-world e-commerce sales data, segmented customers, inferred results (link to the article)
 
-### Jekyll Themes
+# WORK EXPERIENCE & PROJECTS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cereniyim/cereniyim.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Westernacher Consulting, Germany — Senior SAP Transportation Management (TM) Consultant
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*SEP.  2018 - FEB. 2019*
+
+**Finance Workstream Lead at Wind Turbine Manufacturer, Denmark:**
+
+- Facilitated requirements gathering workshop and analyzed requirements
+- Did business process design for transportation invoicing, determined integration between SAP TM and ERP systems
+- Completed system build, configurations and tests with an agile approach
+- Managed communication with stakeholders and subcontractors
+- Prepared Solution Design Documents, Functional Specification Documents, Build and Test Plan
+
+### Accenture, Turkey — Senior Business Analyst
+
+*NOV. 2016 - JUNE 2018*
+
+**Business Case Analysis for Oil Company, UAE:**
+
+- Conducted as-is analysis on SAP TM, ERP and developments
+- Proposed solution from an architectural design perspective for SAP TM upgrade
+
+**Logistics Domain Lead at SAP S/4 HANA Greenfield Implementation for Steel Manufacturer, Turkey:**
+
+- Managed a team of 5, consisting of developers and consultants
+- Analyzed requirements with fit-gap analysis, addressed them SAP Logistics Execution (LE)
+- Determined SAP LE product scope with integrations and master data structure
+- Designed to-be state and system architecture
+- Reported the project status, risks, issues and project KPIs to the project manager, delivered high-quality project documents
+- Prepared Requirements Traceability Matrix, Blueprint and Functional Design Documents, Resource and Detailed Project Plan
+
+### Novigo, Turkey — SAP Supply Chain Management (SCM)/TM Consultant
+
+*AUG.  2015 - OCT. 2016*
+
+- Conducted SAP SCM product training for new joiners
+- Transportation scenario configurations on SAP TM for potential clients’ proof of concepts
+
+**Remote Support for SAP Event Management (EM) Implementation, USA:**
+
+- Completed configurations on SAP EM and prepared configuration rational documents
+- Managed and tracked freight orders/bookings
+
+### Wicasa Group, Turkey — Customer Relationship Management (CRM) Consultant
+
+*NOV.  2014 - MAY 2015*
+
+- Fetched data with SQL and performed customer segmentation
+- Run tests for a customer loyalty management project
