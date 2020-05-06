@@ -18,6 +18,7 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 
 *JUNE 2019 - PRESENT*
 
+- Currently focusing on Practical Deep Learning for Coders course on [fast.ai](https://www.fast.ai/) 
 - Completed [Data Science with Python](https://www.codecademy.com/learn/paths/data-science) and [Andrew Ng’s Machine Learning Course](https://www.coursera.org/learn/machine-learning) where I gained skills in PyData Stack
 - Built projects around funnel and churn analysis with SQL, run A/B tests and did statistical tests with statsmodels ([link to the article](https://towardsdatascience.com/statistical-significance-in-action-84a4f47b51ba?source=friends_link&sk=b42b216c2900d6f9f34c42f9dfca8ac1))
 - [Explored Hacker News data set](https://github.com/cereniyim/BigQuery-SQL-Project/blob/master/rise-of-hackernews.ipynb) on BigQuery with SQL
