@@ -1,6 +1,6 @@
 # About Me
 
-Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-become-a-data-scientist-eec6f8cd435e?source=friends_link&sk=ea90fc26db800fcf4611d37942b23508) and growing as a data scientist. Former SAP consultant with 4 years of work experience. 2 years of work experience in project management and team lead roles. Participated in three SAP projects at times working remotely. I am currently a regular contributor to the [Towards Data Science publication on Medium](https://towardsdatascience.com/@cereniyim).
+Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-become-a-data-scientist-eec6f8cd435e?source=friends_link&sk=ea90fc26db800fcf4611d37942b23508) and growing as a data scientist. Currently focusing on deep learning with Practical Deep Learning for Coders course on [fast.ai](https://www.fast.ai/), and contributing regularly to the [Towards Data Science publication on Medium](https://towardsdatascience.com/@cereniyim). Also, former SAP consultant with 4 years of work experience including project management and team lead roles spanning over 2 years. Participated in 3 SAP projects, at times working remotely. 
 
 ### Contact
 
@@ -17,8 +17,7 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 # DATA SCIENCE EXPERIENCE                                                                                         
 
 *JUNE 2019 - PRESENT*
-
-- Currently focusing on Practical Deep Learning for Coders course on [fast.ai](https://www.fast.ai/) 
+ 
 - Completed [Data Science with Python](https://www.codecademy.com/learn/paths/data-science) and [Andrew Ng’s Machine Learning Course](https://www.coursera.org/learn/machine-learning) where I gained skills in PyData Stack
 - Built projects around funnel and churn analysis with SQL, run A/B tests and did statistical tests with statsmodels ([link to the article](https://towardsdatascience.com/statistical-significance-in-action-84a4f47b51ba?source=friends_link&sk=b42b216c2900d6f9f34c42f9dfca8ac1))
 - [Explored Hacker News data set](https://github.com/cereniyim/BigQuery-SQL-Project/blob/master/rise-of-hackernews.ipynb) on BigQuery with SQL
