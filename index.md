@@ -109,7 +109,8 @@ Python 3.0+ (numpy, pandas, scipy, statsmodels, matplotlib, seaborn, plotly, sci
 
 Certified Associate in Project Management (CAPM) by PMI, Licence Number: 1879874<br/>
 Agile Project Management and Delivery & Scrum Training on Udemy (Apr 2018)<br/>
-AWS Cloud Practitioner Training on FreeCodeCamp (Jan  2020)
+AWS Cloud Practitioner Training on FreeCodeCamp (Jan  2020)<br/>
+Getting Started with AWS Machine Learning on Coursera, [Link to the Certificate](https://www.coursera.org/account/accomplishments/certificate/PHWC3JHDHJLD) (May 2020)
 
 # INTERESTS
 
