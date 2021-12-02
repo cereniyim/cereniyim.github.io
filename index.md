@@ -1,11 +1,12 @@
 # About Me
 
-Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-become-a-data-scientist-eec6f8cd435e?source=friends_link&sk=ea90fc26db800fcf4611d37942b23508) and growing as a data scientist. Currently focusing on deep learning with Practical Deep Learning for Coders course on [fast.ai](https://www.fast.ai/), and contributing regularly to the [Towards Data Science publication on Medium](https://towardsdatascience.com/@cereniyim). Also, former SAP consultant with 4 years of work experience including project management and team lead roles spanning over 2 years. Participated in 3 SAP projects, at times working remotely. 
+[Machine Learning Engineer](https://www.datarevenue.com/en-team/ceren) and Data Scientist in the Metabolomics and Bio-Tech space, spending significant time on database integrations and API design, owning the end-to-end processes from data extraction to deploying models and releases.
+
+Formerly a writer and regular contributor to [Towards Data Science](https://medium.com/@cereniyim), following 4 years as an SAP consultant with project management and team leadership roles in the Transportation Management space.
 
 ### Contact
 
 **E-mail:** [iyimceren@gmail.com](mailto:iyimceren@gmail.com)<br/>
-**Mobile:** [+905385081202](tel:+905385081202)<br/>
 **Linkedin:** [https://www.linkedin.com/in/ceren-iyim](https://www.linkedin.com/in/ceren-iyim)<br/>
 **Medium:** [https://medium.com/@cereniyim](https://medium.com/@cereniyim)<br/>
 **Github:** [https://github.com/cereniyim](https://github.com/cereniyim)<br/>
@@ -13,10 +14,32 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 **Twitter:** [https://twitter.com/cereniyim](https://twitter.com/cereniyim)<br/>
 
 ---
+# CURRENT EXPERIENCE
+### Data Revenue — Jr. Machine Learning Engineer
 
-# DATA SCIENCE EXPERIENCE                                                                                         
+*JUNE 2020 - PRESENT*
 
-*JUNE 2019 - PRESENT*
+- Core member of the biomarker discovery application development project with a key focus on discovery, data alignment, and normalization
+- Planning, developing, testing, deploying small to medium-sized features to the development environment, following TDD and OOP principles closely as a team
+- Refactoring existing code across multiple codebases to adapt to new requirements and best practices
+- Implementing API endpoints and designing payloads
+- Designing the database schema, maintaining it, and managing migrations in each release
+- Improving the application by implementing the novel algorithms and papers in the domain
+- Preparing client reports, and communicating release notes, bugs, and bug fixes
+- Contributing to an open-source project ([omigami.com](https://app.omigami.com/dashboard/tools)) where we enable researchers to use metabolomics annotation tools that are based on machine learning solutions
+- Analyzed consumer spending data from GCP BigQuery, presented results using Jupyter notebooks
+
+---
+
+# PROGRAMMING SKILLS
+
+- Python 3.0+ and packages:  flask-restx, mlflow, numpy, pandas, scipy, statsmodels, scikit-learn, sqlalchemy, alembic, jupyter
+- Infrastructure and orchestration tools: Docker, Kubernetes, Prefect, Terraform
+- Other: Git, AWS
+
+# DATA SCIENCE TRAINING & PROJECTS
+
+*JUNE 2019 - JUNE 2020*
  
 - Completed [Data Science with Python](https://www.codecademy.com/learn/paths/data-science) and [Andrew Ng’s Machine Learning Course](https://www.coursera.org/learn/machine-learning) where I gained skills in PyData Stack
 - Built projects around funnel and churn analysis with SQL, run A/B tests and did statistical tests with statsmodels ([link to the article](https://towardsdatascience.com/statistical-significance-in-action-84a4f47b51ba?source=friends_link&sk=b42b216c2900d6f9f34c42f9dfca8ac1))
@@ -33,15 +56,13 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 
 ### Westernacher Consulting, Germany — Senior SAP Transportation Management (TM) Consultant
 
-*SEP.  2018 - FEB. 2019*
+*SEP. 2018 - FEB. 2019*
 
 **Finance Workstream Lead at Wind Turbine Manufacturer, Denmark:**
 
-- Facilitated requirements gathering workshop and analyzed requirements
-- Did business process design for transportation invoicing, determined integration between SAP TM and ERP systems
-- Completed system build, configurations and tests with an agile approach
+- Assumed Finance Workstream Lead role and facilitated requirements gathering workshop
+- Did business process design for transportation invoicing, completed system build, configurations, and tests with an agile approach
 - Managed communication with stakeholders and subcontractors
-- Prepared Solution Design Documents, Functional Specification Documents, Build and Test Plan
 
 ### Accenture, Turkey — Senior Business Analyst
 
@@ -49,24 +70,21 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 
 **Business Case Analysis for Oil Company, UAE:**
 
-- Conducted as-is analysis on SAP TM, ERP and developments
+- Conducted as-is analysis on SAP TM and ERP systems
 - Proposed solution from an architectural design perspective for SAP TM upgrade
 
 **Logistics Domain Lead at SAP S/4 HANA Greenfield Implementation for Steel Manufacturer, Turkey:**
 
-- Managed a team of 5, consisting of developers and consultants
-- Analyzed requirements with fit-gap analysis, addressed them SAP Logistics Execution (LE)
-- Determined SAP LE product scope with integrations and master data structure
-- Designed to-be state and system architecture
+- Managed a team of 5 as a Logistics Domain Lead at SAP S/4 HANA implementation
+- Analyzed requirements with fit-gap analysis, designed to-be state and system architecture and addressed them with SAP  Logistics Execution
 - Reported the project status, risks, issues and project KPIs to the project manager, delivered high-quality project documents
-- Prepared Requirements Traceability Matrix, Blueprint and Functional Design Documents, Resource and Detailed Project Plan
 
 ### Novigo, Turkey — SAP Supply Chain Management (SCM)/TM Consultant
 
-*AUG.  2015 - OCT. 2016*
+*AUG. 2015 - OCT. 2016*
 
-- Conducted SAP SCM product training for new joiners
-- Transportation scenario configurations on SAP TM for potential clients’ proof of concepts
+- Did remote support for SAP Event Management (EM) project in USA
+- Transportation scenario configurations (inbound route planning, domestic outbound trucking)  on SAP TM for potential clients’ proof of concepts
 
 **Remote Support for SAP Event Management (EM) Implementation, USA:**
 
@@ -77,8 +95,7 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 
 *NOV.  2014 - MAY 2015*
 
-- Fetched data with SQL and performed customer segmentation
-- Run tests for a customer loyalty management project
+- Customer segmentation analysis for Loyalty Management Project
 
 ---
 
@@ -86,22 +103,16 @@ Recently [changed careers](https://towardsdatascience.com/why-i-decided-to-becom
 
 ### Sabanci University, Turkey — B.Sc. in Industrial Engineering
 
-*SEPT.  2009 - JUNE 2014*
+*SEPT. 2009 - JUNE 2014*
 
 - Graduated with GPA of 3.44/4.00
 - Did Stochastic Model in Operations Research Teaching Assistant: Led recitation sessions and assisted two professors in organizing the course content
 
 ### Uppsala University, Sweden — Information Technology
 
-*JAN.  2013 - JUNE 2013*
+*JAN. 2013 - JUNE 2013*
 
 - Exchange student as part of the Erasmus Program
-
----
-
-# PROGRAMMING SKILLS
-
-Python 3.0+ (numpy, pandas, scipy, statsmodels, matplotlib, seaborn, plotly, scikit-learn, light gbm, xgboost, hyperopt, ipywidgets, luigi), SQL, BigQuery on GCP, Docker
 
 ---
 
