@@ -29,13 +29,13 @@ Formerly a writer and regular contributor to [Towards Data Science](https://medi
 - Contributing to an open-source project ([omigami.com](https://app.omigami.com/dashboard/tools)) where we enable researchers to use metabolomics annotation tools that are based on machine learning solutions
 - Analyzed consumer spending data from GCP BigQuery, presented results using Jupyter notebooks
 
----
-
 # PROGRAMMING SKILLS
 
 - Python 3.0+ and packages:  flask-restx, mlflow, numpy, pandas, scipy, statsmodels, scikit-learn, sqlalchemy, alembic, jupyter
 - Infrastructure and orchestration tools: Docker, Kubernetes, Prefect, Terraform
 - Other: Git, AWS
+
+---
 
 # DATA SCIENCE TRAINING & PROJECTS
 
@@ -85,11 +85,6 @@ Formerly a writer and regular contributor to [Towards Data Science](https://medi
 
 - Did remote support for SAP Event Management (EM) project in USA
 - Transportation scenario configurations (inbound route planning, domestic outbound trucking)  on SAP TM for potential clients’ proof of concepts
-
-**Remote Support for SAP Event Management (EM) Implementation, USA:**
-
-- Completed configurations on SAP EM and prepared configuration rational documents
-- Managed and tracked freight orders/bookings
 
 ### Wicasa Group, Turkey — Customer Relationship Management (CRM) Consultant
 
