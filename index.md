@@ -1,12 +1,22 @@
 # About Me
 
-[Machine Learning Engineer](https://www.datarevenue.com/) and Data Scientist in the Metabolomics and Bio-Tech space, spending significant time on database integrations and API design, owning the end-to-end processes from data extraction to deploying models and releases.
+[Machine Learning Engineer](https://www.datarevenue.com/) and Data Scientist in 
+the Metabolomics and Bio-Tech space, spending significant time on database 
+integrations and API design, owning the end-to-end processes from data 
+extraction to deploying models and releases.
 
-Formerly a writer and regular contributor to [Towards Data Science](https://medium.com/@cereniyim), following 4 years as an SAP consultant with project management and team leadership roles in the Transportation Management space.
+Formerly a writer and regular contributor to 
+[Towards Data Science](https://medium.com/@cereniyim), following 4 years as an 
+SAP consultant with project management and team leadership roles in the 
+Transportation Management space.
 
-Open to a role that can help me gain more experience in the complete software development lifecycle and engineering best practices, meanwhile owning complete features and projects that have a primary focus in Machine Learning.
+Open to a product-focused role that can help me gain more experience in the 
+complete software development lifecycle and engineering best practices, 
+meanwhile owning complete product features that have a primary focus in 
+Machine Learning.
 
-Regardless of team and company size, working with and learning from experienced senior engineers and leaders along a clear career path would be a key differentiator.
+Regardless of team and company size, working with and learning from experienced 
+senior engineers and leaders along a clear career path would be a key differentiator.
 
 ### Contact
 
@@ -23,15 +33,24 @@ Regardless of team and company size, working with and learning from experienced 
 
 *JUNE 2020 - PRESENT*
 
-- Core member of the biomarker discovery application development project with a key focus on discovery, data alignment, and normalization
-- Planning, developing, testing, deploying small to medium-sized features to the development environment, following TDD and OOP principles closely as a team
-- Refactoring existing code across multiple codebases to adapt to new requirements and best practices
+- Core member of the biomarker discovery application development project with a 
+key focus on discovery, data alignment, and normalization
+- Planning, developing, testing, deploying small to medium-sized features to the
+development environment, following TDD and OOP principles closely as a team
+- Refactoring existing code across multiple codebases to adapt to new requirements 
+and best practices
 - Implementing API endpoints and designing payloads
-- Designing the database schema, maintaining it, and managing migrations in each release
-- Improving the application by implementing the novel algorithms and papers in the domain
+- Configuring CI/CD pipelines
+- Designing the database schema, maintaining it, and managing migrations in each 
+release
+- Improving the application by implementing the novel algorithms and papers 
+in the domain
 - Preparing client reports, and communicating release notes, bugs, and bug fixes
-- Contributing to an open-source project ([omigami.com](https://www.omigami.com/)) where we enable researchers to use metabolomics annotation tools that are based on machine learning solutions
-- Analyzed consumer spending data from GCP BigQuery, presented results using Jupyter notebooks
+- Contributing to an open-source project 
+([omigami.com](https://www.omigami.com/)) where we enable researchers to use 
+metabolomics annotation tools that are based on machine learning solutions
+- Analyzed consumer spending data from GCP BigQuery, presented results using 
+Jupyter notebooks
 
 # PROGRAMMING SKILLS
 
